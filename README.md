@@ -22,6 +22,9 @@ The business needs to:
 - Pivot Tables
 
 ---
+## 📊 Dashboard Preview
+
+![Sales Dashboard](Dashboard-Screenshot.png)
 
 ## 🔍 Key Insights
 
